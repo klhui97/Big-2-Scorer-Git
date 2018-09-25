@@ -11,7 +11,7 @@
 
 ## 下載
 
-[![alt text](images/us_appstore.svg)](https://itunes.apple.com/app/healthy-plant/id1412520655)
+[![alt text](images/us_appstore.svg)](https://itunes.apple.com/us/app/鋤大d計分器/id1434642139?ls=1&mt=8)
 
 ## 支援
 
